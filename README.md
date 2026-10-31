@@ -59,5 +59,8 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 <img width="1253" height="941" alt="image" src="https://github.com/user-attachments/assets/a96a4f05-da1e-4c6d-b3f9-e644470b689f" />
+
+
 ### RESULT: 
+
 Thus, the association rules for the employee dataset using Apropri Algorithm were generated and executed successfully.
